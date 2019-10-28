@@ -1,0 +1,11 @@
+/*
+ * AdminLTE 样式修改
+ * -------------------------
+ */
+.main-sidebar, .left-side{
+    width: 200px;
+}
+.content-wrapper, .right-side, .main-footer{
+    margin-left: 200px;
+}
+

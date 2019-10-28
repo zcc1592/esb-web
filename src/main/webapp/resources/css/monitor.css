@@ -1,0 +1,75 @@
+.jkIcon{
+	display:inline-block;
+	margin:0px 5px 0px;
+	border:1px solid transparent;
+}
+.jkIcon_selected{
+	border:1px solid #77CCFF !important;
+}
+.jkIcon:hover{
+	background-color:#ECECEC;
+	border:1px solid #77CCFF;
+}
+.jkIcon_zd{
+	padding:4.5px 0.5px;
+}
+.jkIcon_bg{
+	padding:3px 3px;
+}
+.jkIcon_wd{
+	padding:2px 3px;
+}
+.jkIcon_sd{
+	padding:3.5px 3px;
+}
+.jkIcon_qx{
+	padding:3.5px 3px;
+}
+.jkIcon_map{
+	padding:1px 3px;
+}
+.jkIcon_sign{
+    padding:1px 1px;
+}
+/**extjs选中后的样式**/
+.datagrid-row-selected{
+	background-color:#C7EAFF;
+	color:#333;
+}
+.searchBtn{
+	background-color:#2EB0D9;
+	color:#fff;
+	border:1px solid #2EB0D9;
+	cursor:pointer;
+	width: 80px;
+    height: 30px;
+}
+.monitorBtn{
+	background-color:#CDCDCD;
+	color:#333;
+	border:1px solid #CDCDCD;
+	cursor:pointer;
+	width: 80px;
+    height: 30px;
+}
+.excelBtn{
+	background-color:#CDCDCD;
+	color:#333;
+	border:1px solid #CDCDCD;
+	cursor:pointer;
+	width: 80px;
+    height: 30px;
+}
+.infoW{
+	display:inline-block;
+	line-height: 20px;
+	height:20px;
+	width:100%;
+	padding: 3px 0;
+}
+.info_current_state{
+	display:inline-block;
+	width:100%;
+	padding: 3px 0;
+	line-height: 25px;
+}

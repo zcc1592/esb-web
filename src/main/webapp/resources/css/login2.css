@@ -1,0 +1,28 @@
+.login-page, .register-page{
+    width:100%;
+    padding:0;
+    margin:0;
+    background:url(../images/WEB4.png) no-repeat;
+    background-size: 100% 100%;
+}
+.login-box, .register-box{
+    margin: 15% auto;
+}
+.nav-tabs-custom>.nav-tabs>li.active{
+    border-top-color: #fff;
+}
+
+.nav-tabs-custom>.nav-tabs>li.active>a, .nav-tabs-custom>.nav-tabs>li.active:hover>a {
+    background-color: #fff;
+    color: #4d4d4d;
+    font-family: Microsoft YaHei;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.nav-tabs-custom>.nav-tabs>li>a{
+    color: #4d4d4d;
+    font-family: Microsoft YaHei;
+    font-size: 16px;
+}
+

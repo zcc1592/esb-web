@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+.arial{font-family:"Arial","Tahoma","Georgia"}
+.f_yahei{font-family:"微软雅黑";}
+a{text-decoration:none;}
+a.red:link,a.red.visited{color:#cc0000; text-decoration:none;}
+a.red:hover{color:#666;}
+a.w666:link,a.w666:visited{color:#666;}
+a.w06c:link,a.w06c:visited{color:#0066cc;}
+a.w666:hover{text-decoration:underline;}
+ 
+.f_bold{font-weight:bold;}
+
+.eeee{color:#eeeeee;}
+.f444{color:#444444;}
+.f999{color:#999;}
+.f2446{color:#244673;}
+.f06c{color:#0066cc;}
+.fc00{color:#cc0000;}
+.fgreen{color:#093;}
+.f000{color:#000;}
+
+.f14{font-size:14px;}
+.f12{font-size:12px;}
